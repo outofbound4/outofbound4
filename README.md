@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm GAURAV KUMAR</h1>
-<h3 align="center">MCA student at Jawaharlal Nehru University, New Delhi</h3>
+<h2 align="left">Hi 👋, I'm GAURAV KUMAR</h3>
+<h5 align="left">MCA student at Jawaharlal Nehru University, New Delhi</h5>
 
 - 🔭 I’m currently working on [Just-Talk](https://github.com/outofbound4/Just-talk.git)
 
-- 📫 How to reach me **gaurav.kr109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
