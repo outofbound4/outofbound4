@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm GAURAV KUMAR</h3>
+<h2 align="left">Hi <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="gaurav109" height="30" width="40" />, I'm GAURAV KUMAR</h3>
 <h4 align="left">MCA student at Jawaharlal Nehru University, New Delhi</h4>
 
 - 🔭 I’m currently working on [Just-Talk](https://github.com/outofbound4/Just-talk.git)
