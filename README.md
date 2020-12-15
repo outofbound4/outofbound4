@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm GAURAV KUMAR</h3>
-<h5 align="left">MCA student at Jawaharlal Nehru University, New Delhi</h5>
+<h3 align="left">MCA student at Jawaharlal Nehru University, New Delhi</h3>
 
 - 🔭 I’m currently working on [Just-Talk](https://github.com/outofbound4/Just-talk.git)
 
